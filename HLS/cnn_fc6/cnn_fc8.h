@@ -1,0 +1,1 @@
+static const float fc8_filter[10][1024] = {};

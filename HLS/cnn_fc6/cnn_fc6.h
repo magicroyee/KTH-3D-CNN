@@ -1,0 +1,1 @@
+static const float fc6_filter[1024][2304] = {};

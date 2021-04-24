@@ -1,0 +1,1 @@
+static const float fc7_filter[1024][1024] = {};
